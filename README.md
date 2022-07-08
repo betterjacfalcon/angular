@@ -1,12 +1,6 @@
 # GifsApp
 
 This project was generated with [Angular CLI](https://github.com/betterjacfalcon/angular.git)
-    / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
-   / △ \ | '_ \ / _` | | | | |/ _` | '__|   | |   | |    | |
-  / ___ \| | | | (_| | |_| | | (_| | |      | |___| |___ | |
- /_/   \_\_| |_|\__, |\__,_|_|\__,_|_|       \____|_____|___|
-                |___/
-
 
 Angular CLI: 14.0.2
 Node: 16.15.1
